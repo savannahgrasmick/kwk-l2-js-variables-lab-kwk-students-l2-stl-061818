@@ -1,3 +1,3 @@
 const companyName = "Scuber";
 
-let mostProfiutableNeighborhood =
+let mostProfiutableNeighborhood = "Chelsea";
